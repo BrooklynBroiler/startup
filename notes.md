@@ -18,13 +18,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Assignment 0.0 
 
-### What I Learned
+### What I Learned:
 
-#### Steps to using git are as follows:
-    1. `git pull`
-    2. make changes you want to make.
-    3. `git add` . (to add the whole branch, or instead of a . put a file to add)
-    4. `git status` (lets you see what changes have been made.)
-    5. `git commit`, click `enter`, type a commit message.
-    6. `git push`
-    7. (Optional) use `git log` to see all the commits when you are done.
+#### 1. Steps to using git are as follows:
+
+1. `git pull`
+2. make changes you want to make.
+3. `git add` . (to add the whole branch, or instead of a . put a file to add)
+4. `git status` (lets you see what changes have been made.)
+5. `git commit`, click `enter`, type a commit message.
+6. `git push`
+7. (Optional) use `git log` to see all the commits when you are done.
