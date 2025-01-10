@@ -1,8 +1,8 @@
-# Your startup name here
+# I Am There!
 
 [My Notes](notes.md)
 
-A brief description of the application here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Are you sick of going to the RB, or any place that you go to play the sport that you want to play, and you just show up at the wrong time? You may even get dissappointed that you could not play the amount of the sport that you were hoping to play before everyone leaves? So I am going to end this problem this semester with website called "I Am There!", which will help a person see the amount of people who are playing the sport they would like to play, and how long they are planning on being there. It will involve the facilatating party, and those participating in the sport to help keep an acurate description of how many people are playing each sport. This will not only be benificial to the people wanting to play, but will help with the facilitators to analyze what sports are most wanting to be played, and who is actually showing up and playing. People will be more willing to go play sports, and they be able to confidently say "I Am There!". 
 
 
 > [!NOTE]
