@@ -2,8 +2,7 @@
 
 [My Notes](notes.md)
 
-Are you sick of going to the RB, or any place that you go to play the sport that you want to play, and you just show up at the wrong time? You may even get dissappointed that you could not play the amount of the sport that you were hoping to play before everyone leaves? So I am going to end this problem this semester with website called "I Am There!", which will help a person see the amount of people who are playing the sport they would like to play, and how long they are planning on being there. It will involve the facilatating party, and those participating in the sport to help keep an acurate description of how many people are playing each sport. This will not only be benificial to the people wanting to play, but will help with the facilitators to analyze what sports are most wanting to be played, and who is actually showing up and playing. People will be more willing to go play sports, and they be able to confidently say "I Am There!". 
-
+I am There! is going to be a website that allows people to anonymously coordinate times to play sports, and know for sure that they are going to get to play. There is going to be a way for the place that is facilitating activities to be able to easily update how many people are playing a specified sport. There will be a tab for every sport that I am interested in right now, but other sports will easily be added to the website where a company sees a need. A person will be able to login, and browse what sports are being played, and even report anonymously that they will be playing at a specified time, and for and estimated time of how long. When the employees update the numbers, this will be a seperate report from the self reported section which will show the plans of each anonymous player. 
 
 > [!NOTE]
 >  This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable, the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
@@ -18,15 +17,15 @@ Are you sick of going to the RB, or any place that you go to play the sport that
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
-- [ ] A concise and compelling elevator pitch
+- [x] Proper use of Markdown
+- [x] A concise and compelling elevator pitch
 - [ ] Description of key features
 - [ ] Description of how you will use each technology
 - [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Are you sick of going to the RB, or any place that you go to play the sport that you want to play, and you just show up at the wrong time? You may even get dissappointed that you could not play the amount of the sport that you were hoping to play before everyone leaves? So I am going to end this problem this semester with website called "I Am There!", which will help a person see the amount of people who are playing the sport they would like to play, and how long they are planning on being there. It will involve the facilatating party, and those participating in the sport to help keep an acurate description of how many people are playing each sport. This will not only be benificial to the people wanting to play, but will help with the facilitators to analyze what sports are most wanting to be played, and who is actually showing up and playing. People will be more willing to go play sports, and they be able to confidently say "I Am There!". 
 
 ### Design
 
