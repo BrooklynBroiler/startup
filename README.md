@@ -4,11 +4,6 @@
 
 I am There! is going to be a website that allows people to anonymously coordinate times to play sports, and know for sure that they are going to get to play. There is going to be a way for the place that is facilitating activities to be able to easily update how many people are playing a specified sport. There will be a tab for every sport, for this class there will only be one tab for basketball, but other sports will easily be added to the website where a company sees fit. A person will be able to login, browse what sports are being played, even report anonymously that they will be playing at a specified time, if they would like. If a person is planning on going to play, they may put an estimated time of how long they will be playing. When the employees update the numbers, this will be a seperate report from the self reported section. The patron reported 
 
-> [!NOTE]
->  This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable, the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
-
-> [!NOTE]
->  If you are not familiar with Markdown then you should review the [documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
 
 ## 🚀 Specification Deliverable
 
@@ -17,11 +12,11 @@ I am There! is going to be a website that allows people to anonymously coordinat
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [x] Proper use of Markdown
-- [x] A concise and compelling elevator pitch
-- [ ] Description of key features
-- [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] Proper use of Markdown - I used proper markdown
+- [x] A concise and compelling elevator pitch - I wrote a concise and compelling elevator pitch
+- [x] Description of key features - I described the key features
+- [x] Description of how you will use each technology - I wrote the description of how I will use each technology
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references. - I converted my images to png, and then uploaded them to my start up, and put them in order in the README.md.
 
 ### Elevator Pitch
 
@@ -31,14 +26,6 @@ Are you sick of going to the RB, or any place that you go to play a sport that y
 
 ![Design image page 1](page1.png) ![Design image page 2](page2.png) ![Design image page 3](page3.png) ![Design image page 4](page4.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
 
 ### Key features
 
@@ -55,12 +42,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Two modals, four views, buttons on page, table, and text
+- **CSS** - Placement of text, tables, and buttons. Color of Website, and Font of text
+- **React** - Button functionality, scrolling, going between pages
+- **Service** - storing/uploading patrons' data, third party call to the RB website, Endpoint for authentication.
+- **DB/Login** - stores authentication, guest data, user data, facilitator data, and court info. 
+- **WebSocket** - Broadcasts court data, and patrons plans to play basketball, and does so anonymously
 
 ## 🚀 AWS deliverable
 
