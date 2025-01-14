@@ -16,7 +16,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] A concise and compelling elevator pitch - I wrote a concise and compelling elevator pitch
 - [x] Description of key features - I described the key features
 - [x] Description of how you will use each technology - I wrote the description of how I will use each technology
-- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references. - I converted my images to png, and then uploaded them to my start up, and put them in order in the README.md.
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references. - I converted my images to png, and then uploaded them to my startup directory, and put them in order in the README.md.
 
 ### Elevator Pitch
 
