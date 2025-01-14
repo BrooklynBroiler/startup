@@ -42,9 +42,14 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Login, Guest login
+- sport options presented on home page and in bar on top
+- modal to report a play time
+- modal to report player count
+- link to court specifics page
+- chart for each active court
+- ability to scroll to browse courts
+- show report of patrons, show report of facilitators
 
 ### Technologies
 
