@@ -59,15 +59,15 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - I added a page to view courts, an info page, and a login page
+- [x] **Proper HTML element usage** - I used BODY, NAV, MAIN, HEADER, FOOTER tags properly
+- [x] **Links** - I added links between pages as necessary
+- [x] **Text** - I added textual content to the application
+- [x] **3rd party API placeholder** - I added a placeholder for my 3rd party API in the courts page
+- [x] **Images** - I added images on my courts page
+- [x] **Login placeholder** - I added a login placeholder, I am having them use an email instead of a username.
+- [x] **DB data placeholder** - Added a comment of what data will be stored in database in the login form, to store user data.
+- [x] **WebSocket placeholder** - Form in the courts page to allow patrons to update court numbers, there is a comment describing the websocket.
 
 ## 🚀 CSS deliverable
 
