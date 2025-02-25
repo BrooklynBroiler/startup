@@ -1,0 +1,40 @@
+header{
+    padding:20px;
+    background-color:black;
+    color: aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    ;
+}
+.navbar-nav .nav-link{
+    color:rebeccapurple;
+}
+.navbar-nav .nav-link:hover{
+    color: red;
+}
+h2{
+    color: black;
+}
+footer{
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer a{
+    color:rebeccapurple;
+
+}
+footer a:hover{
+    color: red;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: black;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: aliceblue;
+    border-radius: 10px;
+}
