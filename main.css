@@ -5,6 +5,10 @@ header{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     ;
 }
+html, body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:100%;
+}
 .navbar-nav .nav-link{
     color:rebeccapurple;
 }
